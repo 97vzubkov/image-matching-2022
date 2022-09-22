@@ -25,3 +25,5 @@ For the final submission I'be just used single LOFTR model that, in result, gave
 - Adaptive F/H strategy. The main idea of this is to remove some wrong matches using Homography matrix. In contrast to Fundamental matrix, Homography assumes that points are planar.
 
 It was an unforgettable couple of weeks, where I learned a lot of new things for myself and also fell in love with competitions. Yes, I made some mistakes, but during and after the competition, I learned important lessons from them.
+
+P.S. After this competition I become an ensemble guru :)
