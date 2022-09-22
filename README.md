@@ -26,4 +26,27 @@ For the final submission I'be just used single LOFTR model that, in result, gave
 
 It was an unforgettable couple of weeks, where I learned a lot of new things for myself and also fell in love with competitions. Yes, I made some mistakes, but during and after the competition, I learned important lessons from them.
 
+### Acknowledgment
+
+I deeply acknowledge great OSS such as PyTorch, Kornia, OpenCV, etc.
+Special thanks go to authors of these great papers and pretrained models that we used in our final submission:
+
+・DKM
+
+https://github.com/Parskatt/DKM
+
+Edstedt, J., Wadenbäck, M. and Felsberg, M., 2022. Deep Kernelized Dense Geometric Matching. arXiv preprint arXiv:2202.00667.
+
+・LoFTR
+
+https://github.com/zju3dv/LoFTR
+
+Sun, Jiaming, Zehong Shen, Yuang Wang, Hujun Bao, and Xiaowei Zhou. "LoFTR: Detector-free local feature matching with transformers." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 8922-8931. 2021.
+
+・SuperGlue
+
+https://github.com/magicleap/SuperGluePretrainedNetwork
+
+Sarlin, Paul-Edouard, et al. "Superglue: Learning feature matching with graph neural networks." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
+
 P.S. After this competition I become an ensemble guru :)
